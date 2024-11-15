@@ -1,0 +1,11 @@
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.exe.config
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.exe
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\bin\Debug\QuanLyBangDia.pdb
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csproj.AssemblyReference.cache
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.Dangnhap.resources
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.Properties.Resources.resources
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csproj.GenerateResource.cache
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.csproj.CoreCompileInputs.cache
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.exe
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.pdb
+D:\kì2năm3\Lập trình .NET\CODE Visual studio\BaiTapWinForm\BaiTapWinForm\QuanLyBangDia\QuanLyBangDia\obj\Debug\QuanLyBangDia.Quanlybangdia.resources
